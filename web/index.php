@@ -1,5 +1,5 @@
-<?php
 
+<!--
 require('../vendor/autoload.php');
 
 $app = new Silex\Application();
@@ -23,3 +23,18 @@ $app->get('/', function() use($app) {
 });
 
 $app->run();
+
+-->
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>feria 01</title>
+</head>
+<body>
+
+	hola prueba
+
+</body>
+</html>
